@@ -1,0 +1,8 @@
+.venv/
+fuentes/
+mi_voz.*
+informe.pdf
+salidas/reel.wav
+__pycache__/
+.DS_Store
+prompt.txt
